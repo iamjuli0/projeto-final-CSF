@@ -1,7 +1,7 @@
 # Comunicação sem Fio
 **📘 Projeto Final da disciplina de Comunicação Sem Fio**
 
-**👨‍🏫 Professor: Celso Silva**
+**👨‍🏫 Professor: Celso Barbosa Carvalho**
 
 **👥 Alunos:**
   - Daniel Silveira Gonzalez
